@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1542107303 source:d:\ag44 bis\edge.cpp
+	"edge.h"
+
+1542107303 d:\ag44 bis\edge.h
+	"vertex.h"
+
+1542107303 d:\ag44 bis\vertex.h
+	<vector>
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<stdio.h>
+
+1542107303 source:d:\ag44 bis\vertex.cpp
+	"vertex.h"
+
+1542114870 source:d:\ag44 bis\graph.cpp
+	"graph.h"
+
+1542117816 d:\ag44 bis\graph.h
+	"edge.h"
+
+1542114535 source:d:\ag44 bis\main.cpp
+	<iostream>
+	"graph.h"
+
